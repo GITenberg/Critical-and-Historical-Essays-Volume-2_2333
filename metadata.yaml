@@ -1,0 +1,27 @@
+_repo: Critical-and-Historical-Essays-Volume-2_2333
+creator:
+  author:
+    agent_name: Macaulay, Thomas Babington Macaulay, Baron
+    aliases:
+    - Macaulay, Lord (Thomas Babington Macaulay)
+    - Macaulay, T. Babington (Thomas Babington)
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '443'
+    url: http://www.gutenberg.org/2009/agents/443
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
+description: ''
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'Great Britain -- History'
+title: Critical and Historical Essays — Volume 2
+url: http://www.gutenberg.org/ebooks/2333
